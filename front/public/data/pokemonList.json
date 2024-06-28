@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "img": "../pokemon_icons/pokemon_icon_001_00_shiny.png"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "img": "../pokemon_icons/pokemon_icon_002_00_shiny.png"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "img": "../pokemon_icons/pokemon_icon_003_00_shiny.png"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur(M)",
+    "img": "../pokemon_icons/pokemon_icon_003_51_shiny.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "img": ""
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "img": "../pokemon_icons/pokemon_icon_004_00_shiny.png"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "img": "../pokemon_icons/pokemon_icon_005_00_shiny.png"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "img": "../pokemon_icons/pokemon_icon_006_00_shiny.png"
+  },
+  {
+    "id": 6,
+    "name": "Charizard(M-X)",
+    "img": "../pokemon_icons/pokemon_icon_006_51_shiny.png"
+  },
+  {
+    "id": 6,
+    "name": "Charizard(M-Y)",
+    "img": "../pokemon_icons/pokemon_icon_006_52_shiny.png"
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "img": "../pokemon_icons/pokemon_icon_007_00_shiny.png"
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "img": "../pokemon_icons/pokemon_icon_008_00_shiny.png"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "img": "../pokemon_icons/pokemon_icon_009_00_shiny.png"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise(M)",
+    "img": "../pokemon_icons/pokemon_icon_009_51_shiny.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "img": ""
+  },
+  {
+    "id": "10",
+    "name": "Caterpie",
+    "img": "../pokemon_icons/pokemon_icon_010_00_shiny.png"
+  },
+  {
+    "id": "11",
+    "name": "Metapod",
+    "img": "../pokemon_icons/pokemon_icon_011_00_shiny.png"
+  },
+  {
+    "id": "12",
+    "name": "Butterfree",
+    "img": "../pokemon_icons/pokemon_icon_012_00_shiny.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "img": ""
+  },
+  {
+    "id": "",
+    "name": "",
+    "img": ""
+  },
+  {
+    "id": "13",
+    "name": "Weedle",
+    "img": "../pokemon_icons/pokemon_icon_013_00_shiny.png"
+  },
+  {
+    "id": "14",
+    "name": "Kakuna",
+    "img": "../pokemon_icons/pokemon_icon_014_00_shiny.png"
+  },
+  {
+    "id": "15",
+    "name": "Beedrill",
+    "img": "../pokemon_icons/pokemon_icon_015_00_shiny.png"
+  },
+  {
+    "id": "15",
+    "name": "Beedrill(M)",
+    "img": "../pokemon_icons/pokemon_icon_015_51_shiny.png"
+  },
+  {
+    "id": "",
+    "name": "",
+    "img": ""
+  },
+  {
+    "id": "16",
+    "name": "Pidgey",
+    "img": "../pokemon_icons/pokemon_icon_016_00_shiny.png"
+  },
+  {
+    "id": "17",
+    "name": "Pidgeotto",
+    "img": "../pokemon_icons/pokemon_icon_017_00_shiny.png"
+  },
+  {
+    "id": "18",
+    "name": "Pidgeot",
+    "img": "../pokemon_icons/pokemon_icon_018_00_shiny.png"
+  },
+  {
+    "id": "18",
+    "name": "Pidgeot(M)",
+    "img": "../pokemon_icons/pokemon_icon_018_51_shiny.png"
+  },
+  {},
+  {
+    "id": "19",
+    "name": "Ratata",
+    "img": "../pokemon_icons/pokemon_icon_019_00_shiny.png"
+  },
+  {
+    "id": "20",
+    "name": "Raticate",
+    "img": "../pokemon_icons/pokemon_icon_020_00_shiny.png"
+  },
+  {
+    "id": "21",
+    "name": "Spearow",
+    "img": "../pokemon_icons/pokemon_icon_021_00_shiny.png"
+  }
+]

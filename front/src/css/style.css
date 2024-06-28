@@ -1,0 +1,200 @@
+/* !!공통! */
+* {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: lato, open sans, sans-serif;
+}
+.content {
+  width: 1000px;
+  margin: 2rem auto;
+  /* border: 1px solid green; */
+}
+/* !!Header */
+.header {
+  box-shadow: 0 -5px 15px rgba(0, 0, 0, 0.3);
+  padding: 1rem 0;
+}
+.header-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+  margin: 0 auto;
+}
+.header-title {
+  font-size: 32px;
+  font-weight: 700;
+}
+.header-menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+}
+/* !!Home Menu!! */
+.homemenu {
+  margin: 20px 0;
+}
+.homemenu-categories {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid red; */
+}
+.homemenu-category {
+  width: calc((100% / 4) - 8px);
+  height: 120px;
+  padding: 10px 10px 10px 12px;
+  /* border: 1px solid #dddddd; */
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+  margin: 0.5rem 0;
+}
+.homemenu-category-icon {
+  width: 40px;
+  height: 40px;
+}
+.homemenu-category-title {
+  font-size: 20px;
+  font-weight: 700;
+}
+.homemenu-category-desc {
+  font-size: 14px;
+  font-weight: 700;
+  color: #212121;
+}
+/* !!HomeContent */
+.homecontent {
+  margin-top: 2rem;
+  border: 1px solid blue;
+}
+.homecontent-menus {
+  display: flex;
+  justify-content: center;
+  border: 1px solid green;
+}
+.homecontent-menu {
+  width: 50%;
+  border: 1px solid red;
+}
+/* !!Shiny */
+.shiny-information {
+  /* border: 1px solid red; */
+  text-align: center;
+  align-items: center;
+  margin-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-image: linear-gradient(90deg, #5faaaf, #599a96);
+  color: white;
+}
+.shiny-information-nickname-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  width: 60px;
+  margin-top: 2rem;
+}
+.shiny-information-nickname-input::placeholder {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.shiny-register-table {
+  margin: 0 auto;
+  padding: 14px 0;
+}
+.shiny {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 1rem 0;
+}
+.shiny-pokemon {
+  position: relative;
+  width: 150px; /* 필요한 너비로 조정하세요 */
+  height: 150px; /* 필요한 높이로 조정하세요 */
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.shiny-pokemon-desc {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1; /* z-index를 사용하여 텍스트가 이미지 위에 오도록 설정 */
+  padding: 5px; /* 텍스트 패딩 조정 */
+  display: flex;
+  flex-direction: column; /* 수직 정렬 */
+  justify-content: center;
+  align-items: center; /* 중앙 정렬 */
+  gap: 8px;
+  font-weight: bold;
+}
+
+.pokemon-id {
+  display: none; /* 기본적으로 숨김 */
+  position: absolute;
+  top: 22px; /* 상단 여백 조정 */
+  left: 5px; /* 좌측 여백 조정 */
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.5); /* 연한 색깔로 설정 */
+}
+
+.shiny-pokemon:hover .pokemon-id {
+  display: block; /* hover 시에 보이도록 설정 */
+}
+
+.shiny-pokemon img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* 이미지 크기 조정 */
+  height: 100%; /* 이미지 크기 조정 */
+  z-index: 0; /* z-index를 사용하여 이미지가 텍스트 뒤에 오도록 설정 */
+}
+
+/* !!Boss!! */
+.boss-warnings {
+  font-size: 20px;
+  margin: 20px 0;
+}
+.boss-warning {
+  font-weight: bold;
+  margin-top: 20px;
+}
+.boss-search-input {
+  width: 100%;
+  height: 4em;
+}
+
+/* !!Egg!! */
+.egg-warning {
+  font-size: 20px;
+  margin: 2rem 0;
+}
+.egg-list {
+  border: 1px solid green;
+  margin: 1rem 0;
+  padding: 1rem 0;
+}
+.egg-image {
+  border: 1px solid red;
+  width: calc((100% / 6) - 12px);
+}
+
+/* !!Footer */
+.footer {
+  background-color: #efefef;
+}
+.footer-private-policy {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+}
+.footer-private-warning {
+  text-align: center;
+  margin: 2rem 0;
+}
