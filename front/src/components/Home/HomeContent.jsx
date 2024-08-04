@@ -46,10 +46,23 @@ export default function HomeContent() {
           {row.map((board, index) => {
             const actualIndex = rowIndex * 2 + index;
             return board.id ? (
-              <ul key={index} className="homecontent-menu">
-                <li>{board.title}</li>
-                <li>{board.desc}</li>
-              </ul>
+              <Link className="homecontent-link">
+                <ul
+                  key={index}
+                  className="homecontent-menu"
+                  style={{
+                    backgroundImage: `url(${board.img})`,
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                  }}
+                >
+                  <p>
+                    <li>{board.title}</li>
+                    <li>{board.desc}</li>
+                  </p>
+                  {/* <img src={board.img} alt="" /> */}
+                </ul>
+              </Link>
             ) : (
               <p></p>
             );

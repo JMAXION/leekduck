@@ -119,11 +119,7 @@
     "name": "Beedrill(M)",
     "img": "../pokemon_icons/pokemon_icon_015_51_shiny.png"
   },
-  {
-    "id": "",
-    "name": "",
-    "img": ""
-  },
+  {},
   {
     "id": "16",
     "name": "Pidgey",
@@ -156,8 +152,88 @@
     "img": "../pokemon_icons/pokemon_icon_020_00_shiny.png"
   },
   {
+    "id": "19",
+    "name": "Ratata",
+    "img": "../pokemon_icons/pokemon_icon_019_61_shiny.png"
+  },
+  {
+    "id": "20",
+    "name": "Raticate",
+    "img": "../pokemon_icons/pokemon_icon_020_61_shiny.png"
+  },
+  {},
+  {
     "id": "21",
     "name": "Spearow",
     "img": "../pokemon_icons/pokemon_icon_021_00_shiny.png"
+  },
+  {
+    "id": "22",
+    "name": "Fearow",
+    "img": "../pokemon_icons/pokemon_icon_022_00_shiny.png"
+  },
+  {
+    "id": "23",
+    "name": "Ekans",
+    "img": "../pokemon_icons/pokemon_icon_023_00_shiny.png"
+  },
+  {
+    "id": "24",
+    "name": "Arbok",
+    "img": "../pokemon_icons/pokemon_icon_024_00_shiny.png"
+  },
+  {},
+  {
+    "id": "25",
+    "name": "Pikachu",
+    "img": "../pokemon_icons/pokemon_icon_025_00_shiny.png"
+  },
+  {
+    "id": "26",
+    "name": "Raichu",
+    "img": "../pokemon_icons/pokemon_icon_026_00_shiny.png"
+  },
+  {
+    "id": "26",
+    "name": "Raichu",
+    "img": "../pokemon_icons/pokemon_icon_026_61_01_shiny.png"
+  },
+  {},
+  {},
+  {
+    "id": "27",
+    "name": "Sandshrew",
+    "img": "../pokemon_icons/pokemon_icon_027_00_shiny.png"
+  },
+  {
+    "id": "28",
+    "name": "Sandslash",
+    "img": "../pokemon_icons/pokemon_icon_028_00_shiny.png"
+  },
+  {
+    "id": "27",
+    "name": "Sandshrew",
+    "img": "../pokemon_icons/pokemon_icon_027_61_shiny.png"
+  },
+  {
+    "id": "28",
+    "name": "Sandslash",
+    "img": "../pokemon_icons/pokemon_icon_028_61_shiny.png"
+  },
+  {},
+  {
+    "id": "29",
+    "name": "Nidoran♀",
+    "img": "../pokemon_icons/pokemon_icon_029_00_shiny.png"
+  },
+  {
+    "id": "30",
+    "name": "Nidorina",
+    "img": "../pokemon_icons/pokemon_icon_030_00_shiny.png"
+  },
+  {
+    "id": "31",
+    "name": "Nidoqueen",
+    "img": "../pokemon_icons/pokemon_icon_031_00_shiny.png"
   }
 ]

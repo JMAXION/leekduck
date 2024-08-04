@@ -1,38 +1,75 @@
 [
-  { "id": 1, "title": "| TUTORIAL", "desc": "HOW TO ADD POKÉMON GO WIDGETS" },
-  { "id": 2, "title": "| DITTO", "desc": "CURRENT DITTO DISGUISES" },
+  {
+    "id": 1,
+    "title": "| TUTORIAL",
+    "desc": "HOW TO ADD POKÉMON GO WIDGETS",
+    "img": "/img/go-widgets-splash.webp"
+  },
+  {
+    "id": 2,
+    "title": "| DITTO",
+    "desc": "CURRENT DITTO DISGUISES",
+    "img": "/img/dittodisguises-halftone.jpg"
+  },
   {
     "id": 3,
     "title": "| SPECIAL RESEARCH",
-    "desc": "MELOETTA SPECIAL RESEARCH"
+    "desc": "MELOETTA SPECIAL RESEARCH",
+    "img": "/img/meloetta.jpg"
   },
-  { "id": 4, "title": "| GRAPHIC", "desc": "HOW TO EVOLVE EEVEE" },
-  { "id": 5, "title": "| SPECIAL RESEARCH", "desc": "JUMP-START RESEARCH" },
+  {
+    "id": 4,
+    "title": "| GRAPHIC",
+    "desc": "HOW TO EVOLVE EEVEE",
+    "img": "/img/how-to-evolve-eevee-splash.jpg"
+  },
+  {
+    "id": 5,
+    "title": "| SPECIAL RESEARCH",
+    "desc": "JUMP-START RESEARCH",
+    "img": "/img/jumpstartresearch.jpg"
+  },
   {
     "id": 6,
     "title": "| SPECIAL RESEARCH",
-    "desc": "PROFESSOR'S RESEARCH SPECIAL RESEARCH"
+    "desc": "PROFESSOR'S RESEARCH SPECIAL RESEARCH",
+    "img": "/img/professors-research-willow-tgc.jpg"
   },
   {
     "id": 7,
     "title": "| SPECIAL RESEARCH",
-    "desc": "SHINY MEW MASTERWORK RESEARCH"
+    "desc": "SHINY MEW MASTERWORK RESEARCH",
+    "img": "/img/shiny-mew-special-research.jpg"
   },
   {
     "id": 8,
     "title": "| SPECIAL RESEARCH",
-    "desc": "SEASON OF LEGENDS SPECIAL RESEARCH"
+    "desc": "SEASON OF LEGENDS SPECIAL RESEARCH",
+    "img": "/img/season-of-legends.jpg"
   },
   {
     "id": 9,
-    "title": "| SPECIAL RESEARCH",
-    "desc": "MELOETTA SPECIAL RESEARCH"
+    "title": "| UPDATE",
+    "desc": "GO BEYOND UPDATE",
+    "img": "/img/gobeyond-main.jpg"
   },
-  { "id": 10, "title": "| GRAPHIC", "desc": "HOW TO EVOLVE EEVEE" },
-  { "id": 11, "title": "| SPECIAL RESEARCH", "desc": "JUMP-START RESEARCH" },
+  {
+    "id": 10,
+    "title": "| SPECIAL RESEARCH",
+    "desc": "VICTINI SPECIAL RESEARCH",
+    "img": "/img/victini.jpg"
+  },
+  {
+    "id": 11,
+    "title": "| SPECIAL RESEARCH",
+    "desc": "A MEGA DISCOVERY SPECIAL RESEARCH",
+    "img": "/img/megaevolution-launch.jpg"
+  },
+
   {
     "id": 12,
-    "title": "| SPECIAL RESEARCH",
-    "desc": "PROFESSOR'S RESEARCH SPECIAL RESEARCH"
+    "title": "| SHOP",
+    "desc": "LEEKDUCK SHOP",
+    "img": "/img/ShopCover.jpg"
   }
 ]

@@ -9,10 +9,13 @@ export default function Shiny() {
     released: 1146,
   });
   const [clickedItems, setClickedItems] = useState({});
+  const url = "http://localhost:8080/shiny";
 
   useEffect(() => {
-    axios
-      .get("/data/pokemonList.json")
+    axios({
+      method: "post",
+      url: url,
+    })
       .then((res) => {
         setShinyList(res.data || []); // 데이터가 없을 경우 빈 배열로 초기화
         console.log(res.data); // 데이터를 성공적으로 가져온 후에 로그 출력
